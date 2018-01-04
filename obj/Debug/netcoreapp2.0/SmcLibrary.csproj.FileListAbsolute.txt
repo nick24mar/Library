@@ -1,0 +1,10 @@
+C:\Users\nicky\Desktop\SmcLibrary\bin\Debug\netcoreapp2.0\SmcLibrary.deps.json
+C:\Users\nicky\Desktop\SmcLibrary\bin\Debug\netcoreapp2.0\SmcLibrary.runtimeconfig.json
+C:\Users\nicky\Desktop\SmcLibrary\bin\Debug\netcoreapp2.0\SmcLibrary.runtimeconfig.dev.json
+C:\Users\nicky\Desktop\SmcLibrary\bin\Debug\netcoreapp2.0\SmcLibrary.dll
+C:\Users\nicky\Desktop\SmcLibrary\bin\Debug\netcoreapp2.0\SmcLibrary.pdb
+C:\Users\nicky\Desktop\SmcLibrary\obj\Debug\netcoreapp2.0\SmcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Desktop\SmcLibrary\obj\Debug\netcoreapp2.0\SmcLibrary.AssemblyInfoInputs.cache
+C:\Users\nicky\Desktop\SmcLibrary\obj\Debug\netcoreapp2.0\SmcLibrary.AssemblyInfo.cs
+C:\Users\nicky\Desktop\SmcLibrary\obj\Debug\netcoreapp2.0\SmcLibrary.dll
+C:\Users\nicky\Desktop\SmcLibrary\obj\Debug\netcoreapp2.0\SmcLibrary.pdb
